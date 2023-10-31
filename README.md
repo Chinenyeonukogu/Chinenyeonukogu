@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Chinenyeonukogu
-- 👀 I’m interested in ...learning git-hub
-- 🌱 I’m currently learning ...web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested...in data engineering roles
+- 🌱 I’m currently learning ...Database management system
+- 💞️ I’m looking to collaborate on ...database project
 
 <!---
 Chinenyeonukogu/Chinenyeonukogu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
